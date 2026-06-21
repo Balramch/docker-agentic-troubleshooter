@@ -24,6 +24,7 @@ Before running the project, ensure you have:
 1. Python 3.8 or higher
 2. Docker installed and running
 3. Ollama installed and running (Download from: https://ollama.ai)
+4. Download gemma4 llm through ollama.
 
 Required Python packages (see requirements.txt):
   • ollama
