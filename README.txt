@@ -31,7 +31,6 @@ Required Python packages (see requirements.txt):
   • langchain-core
   • langchain-ollama
   • langgraph
-  • pydantic
   • streamlit
 
 Install dependencies:
